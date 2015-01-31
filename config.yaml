@@ -1,6 +1,0 @@
-message: This is a message defined in the configuration file config.yaml.
-database:
-   driverClass: com.mysql.jdbc.Driver
-   user: root
-   password: sivaN01`
-   url: jdbc:mysql://localhost/mobilefoodfacility
